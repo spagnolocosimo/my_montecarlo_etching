@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a Monte Carlo simulation to analyze the etching process in semiconductor manufacturing, specifically focusing on the remaining thickness of SiO₂ (Silicon Dioxide) and SiNx (Silicon Nitride) layers. The simulation takes into account variability in parameters such as initial thickness, etch rates, and standard deviations, helping to evaluate how these factors impact the etching results.
+This project provides a Monte Carlo simulation to analyze the etching process in semiconductor manufacturing, specifically focusing on the remaining thickness of a material, for example SiO₂ (Silicon Dioxide), and another material, for example SiNx (Silicon Nitride) layers. The simulation takes into account variability in parameters such as initial thickness, etch rates, and standard deviations, helping to evaluate how these factors impact the etching results.
 
 The code is designed to generate visualizations, including histograms and bar charts, that provide insights into the distribution of the remaining thickness after the etching process. Additionally, the project includes an interactive graphical user interface (GUI) for users to input key parameters, making the simulation accessible for quick analysis.
 
